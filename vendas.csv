@@ -1,0 +1,7 @@
+Data,Produto,Vendas,Regiao
+2023-01-01,A,100,Norte
+2023-01-01,B,150,Sul
+2023-01-02,A,120,Norte
+2023-01-02,C,80,Leste
+2023-01-03,B,200,Sul
+2023-01-03,A,90,Oeste
